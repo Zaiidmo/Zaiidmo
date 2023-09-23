@@ -10,6 +10,7 @@ This GitHub Galaxy is where my coding adventures and tech passions come to life.
 .<br>
 .<br>
 <h3>🌌 Contact Me </h3>
+
 I thrive on connecting with fellow explorers. Reach out through:<br>
 
 📡 *GitHub:* Open issues or pull requests on any repo. I'm always ready for interstellar collaboration.<br>

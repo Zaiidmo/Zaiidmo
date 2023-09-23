@@ -1,27 +1,15 @@
-<h1> 🚀 Welcome to My GitHub Universe! 🌟 </h1>
-Hi there, I'm ZAIID MOUMNI 👋 <br>Welcome to the magic show that is my GitHub profile! 🎩✨.<br>
-I'm always eager to learn new languages and frameworks. <br>
-This GitHub Galaxy is where my coding adventures and tech passions come to life..<br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-<h3>🌌 Contact Me </h3>
+<h1>🌟 Welcome to my mystical corner of the cosmic codeverse! 🌟</h1>
+<h3>🌌 Cosmic Sorcerer 🌌 <h3>
+🔮 Name: ZAIID MOUMNI <br>
+🧙‍♂️ Occupation: Full-Stack Sorcerer <br>
+🌟 Magical Expertise: Conjuring Code Spells, Navigating Celestial Webs, Debugging Cosmic Enchantments <br>
+🪐 Tools of the Trade: My keyboard is my wand, and code is my interstellar language .<br>
+  
+<h3>🌟 Cosmic Quests 🌟</h3>
+I embark on epic quests in the digital cosmos:<br>
+🪐 Exploring the celestial realms of open-source galaxies.<br>
+🚀 Navigating the interstellar currents of software development.<br>
+📚 Unearthing ancient scrolls of cosmic coding wisdom.<br>
 
-I thrive on connecting with fellow explorers. Reach out through:<br>
 
-📡 *GitHub:* Open issues or pull requests on any repo. I'm always ready for interstellar collaboration.<br>
 
-<!--🌐 *LinkedIn:* Connect on [LinkedIn](https://www.linkedin.com/in/yourprofile) for professional networking.
-
-🐦 *Twitter:* Follow my cosmic adventures on [Twitter](https://twitter.com/yourhandle).-->
-
-📧 *Email:* Send me a transmission at [zaiidmoumnii@gmail.com].<br>
-
-<h3>🌟 Together, We'll Create Constellations</h3>
-
-Join me in shaping the future, one line of code at a time.<br>
-Thanks for visiting my GitHub universe, and may your code be bug-free and your projects meteoric! 🌠🛰️🌌

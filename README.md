@@ -74,10 +74,10 @@ Join me on this epic journey through the digital realm, where innovation and cre
 
 Feel free to connect with me on:
 
-- **Portfolio:** [Zaiid Moumnii](https://vlpha.netlify.app)
+- **Portfolio:** [Zaiid Moumnii](https://www.vlpha.tech)
 - **LinkedIn:** [Zaiid Moumnii](https://www.linkedin.com/in/Zaiidmoumni)
 - **Twitter:** [Zaiid Moumnii](https://www.twitter.com/Zaiidmo)
-- **Email:** `zaiidmoumnii@gmail.com`
+- **Email:** `moumni.zaiid@gmail.com`
 - **Discord:** `thevlpha`
 
 --- 

@@ -4,7 +4,7 @@
 
 ## 🧙‍♂️ Champion Biography
 
-Greetings, Summoners! I am ZAIID MOUMNII, a Master Craftsman of the Digital Rift. As a FULL-STACK DEVELOPER, I traverse the vast landscapes of code, conjuring powerful applications and elegant solutions. From the frontlines of the user interface to the arcane depths of server architecture, I wield my abilities to create digital experiences that captivate and inspire.
+Greetings, Summoners! I am ZAIID MOUMNII, a Master Craftsman of the Digital Rift. As a SOFTWARE ENGINEER, I traverse the vast landscapes of code, conjuring powerful applications and elegant solutions. From the frontlines of the user interface to the arcane depths of server architecture, I wield my abilities to create digital experiences that captivate and inspire.
 
 ## ⚔️ Battle Strategy
 
@@ -25,17 +25,17 @@ In the ever-evolving arena of web development, adaptability is my greatest weapo
 
 ## 🌟 Legendary Artifacts
 
-### QuickBite 🍔
+### QuickBite 
 - **Description:** A fast food delivery platform offering quick and convenient food delivery services.
 - **Techs:** HTML - CSS - JavaScript - PHP(Laravel) - MySQL
 - **Repository:** [View Artifact](https://github.com/Zaiidmo/QuickBite)
 
-### DevBlog - Nexus of Knowledge
+### DevBlog 
 - **Description:** Developer community platform for knowledge sharing
 - **Techs:** EJS, Node.js, Express, MongoDB
 - **Repository:** [View Artifact](https://github.com/Zaiidmo/DevBlog)
 
-### Nexus - A chat application 
+### Nexus 
 - **Description:** Real-time communication platform with channels and direct messaging capabilities.
 - **Techs:** React, Socket.io, NestJs, MongoDB, JWT Authentication
 - **Repository:** [View Artifact](https://github.com/Nexus-chat-app)

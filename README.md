@@ -12,7 +12,7 @@ In the ever-evolving arena of web development, adaptability is my greatest weapo
 
 ## 🔮 Champion Abilities
 ### 🏹 Marksman Skills (Frontend)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap)](https://skillicons.dev)
 
 ### 🧙‍♂️ Mage Abilities (Backend)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel)](https://skillicons.dev)
@@ -21,7 +21,7 @@ In the ever-evolving arena of web development, adaptability is my greatest weapo
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ### 🛡️ Guardian Tools (DevOps)
-[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,jenkins,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,jenkins,kubernetes,linux)](https://skillicons.dev)
 
 ## 🌟 Legendary Artifacts
 

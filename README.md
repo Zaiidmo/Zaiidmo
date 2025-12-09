@@ -1,76 +1,149 @@
-# 👾 ZAIID MOUMNII: Summoner of Code 🛠️
+# 🐺 Zaiid Moumnii — TheVlpha
 
-> *"The developer shall inherit the earth."* — **THE ALPHA**
+> *"Engineering clarity from chaos."*
 
-## 🧙‍♂️ Champion Biography
+Hi — I’m **Zaiid**, also known as **TheVlpha**, a software engineer turning into a systems architect.  
+I build scalable systems, backend architectures, cloud-powered infrastructures, and the occasional beautiful front-end — always with intent, precision, and a bit of rebellion.
 
-Greetings, Summoners! I am ZAIID MOUMNII, a Master Craftsman of the Digital Rift. As a SOFTWARE ENGINEER, I traverse the vast landscapes of code, conjuring powerful applications and elegant solutions. From the frontlines of the user interface to the arcane depths of server architecture, I wield my abilities to create digital experiences that captivate and inspire.
+Things I value:
 
-## ⚔️ Battle Strategy
+- Structure  
+- Elegance  
+- Maintainability  
+- Engineering as a craft  
+- The thrill of solving problems others avoid  
 
-In the ever-evolving arena of web development, adaptability is my greatest weapon. Like a versatile champion on the Rift, I continuously enhance my abilities, master new technologies, and forge innovative solutions to complex challenges.
-
-## 🔮 Champion Abilities
-### 🏹 Marksman Skills (Frontend)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap)](https://skillicons.dev)
-
-### 🧙‍♂️ Mage Abilities (Backend)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,cs,dotnet)](https://skillicons.dev)
-
-### 💎 Resource Management (Databases)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
-
-### 🛡️ Guardian Tools (DevOps)
-[![My Skills](https://skillicons.dev/icons?i=git,docker,aws,azure,jenkins,kubernetes,linux)](https://skillicons.dev)
-
-## 🌟 Legendary Artifacts
-
-### QuickBite 
-- **Description:** A fast food delivery platform offering quick and convenient food delivery services.
-- **Techs:** HTML - CSS - JavaScript - PHP(Laravel) - MySQL
-- **Repository:** [View Artifact](https://github.com/Zaiidmo/QuickBite)
-
-### DevBlog 
-- **Description:** Developer community platform for knowledge sharing
-- **Techs:** EJS, Node.js, Express, MongoDB
-- **Repository:** [View Artifact](https://github.com/Zaiidmo/DevBlog)
-
-### Nexus 
-- **Description:** Real-time communication platform with channels and direct messaging capabilities.
-- **Techs:** React, Socket.io, NestJs, MongoDB, JWT Authentication
-- **Repository:** [View Artifact](https://github.com/Nexus-chat-app)
-
-### eBooks 
-- **Description:** Digital library platform for discovering, purchasing, and reading electronic books.
-- **Techs:** React, Redux, NestJs, TypeScript, Microservices
-- **DevOps:** Docker, Docker-Compose, Jenkins 
-- **AWS:** S3, EC2, ECS, Cognito, Lambda, API Gateway, CloudFront, CloudWatch, VPC, SNS, DynamoDB
-- **Repository:** [View Artifact](https://github.com/Zaiidmo/eBooks-API)
-
-### Eventify 
-- **Description:** Event management platform for creating, organizing, and discovering local and virtual events.
-- **Techs:** React, NestJs, Mongodb, TypeScript, Mollie Payment
-- **Repository:** [View Artifact](https://github.com/Zaiidmo/Eventify-API)
-
-### BetMate 
-- **Description:** Sports prediction and social betting platform with leaderboards and community features.
-- **Techs:** React.js, TypeScript, NestJS, MongoDB, WebSockets, OAuth
-- **Repository:** [View Artifact](https://github.com/BetMate)
-
-## 📚 Current Quests
-- Mastering the art of Microservice architectures
-- Exploring the Cloud realms for infrastructure optimization
-- Harnessing the power of WebAssembly
-- Studying the ancient arts of Machine Learning
-
-## 📜 Summoner's Contact Scroll
-- **Summoner's Nexus:** [vlpha.tech](https://www.vlpha.tech)
-- **Alliance Network:** [Zaiid Moumnii](https://www.linkedin.com/in/Zaiidmoumni)
-- **Message Crystal:** [Zaiidmo](https://twitter.com/Zaiidmo)
-- **Arcane Transmission:** moumni.zaiid@gmail.com
-- **Voice Channel:** thevlpha
+If something carries the **Vlpha** signature, it’s because it’s designed, built, and refined with obsession.
 
 ---
 
-*"In code, as in battle, precision and strategy are the keys to victory."*
+## 🧠 What I Do
 
+I work across the stack, but my center of gravity lives in:
+
+- Backend engineering & API architecture  
+- Distributed systems & microservices  
+- Cloud engineering (mainly **AWS**)  
+- DevOps pipelines & deployment automation  
+- Frontend integration when the experience matters  
+
+I enjoy making systems make sense — reducing complexity until it feels clean.
+
+---
+
+## 🛠️ Tech I Work With
+
+### Core Stack — Backend Engineering & System Architecture  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,redis,postgres,mongodb,dynamodb" />
+</p>
+
+### Core Stack — Frontend Integration  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,html,css,js" />
+</p>
+
+### Extended Arsenal  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express,php,laravel,cs,swift,dotnet,mysql,sqlite,sequelize" />
+</p>
+
+### Cloud Engineering  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,vercel" />
+</p>
+
+### DevOps & Platform Engineering  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,jenkins,githubactions,gitlab,nginx" />
+</p>
+
+### Tools I Craft With  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,figma,postman" />
+</p>
+
+### Operating Systems  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=apple,linux,windows" />
+</p>
+
+### Architectural Concepts  
+
+**Domain-Driven Design · Event-Driven Architectures · System Design · Microservices · Distributed Systems · CI/CD Pipelines · Infrastructure as Code · Performance Engineering**
+
+---
+
+## 🚀 Featured Projects
+
+### 🏆 BetMate — Predictive Sports Platform
+
+A competitive sports prediction platform with real-time leaderboards, social interaction, and secure authentication flows.
+
+- **Stack:** React · TypeScript · NestJS · MongoDB · WebSockets · OAuth  
+- **Domain:** real-time event streams, prediction logic, scalable matchmaking  
+- **Organization:** [BetMate Repos](https://github.com/orgs/Bet-Mate/repositories)  
+- [**Demo**](https://betmate.moumni.uk)  
+
+---
+
+### 📚 eBooks — Cloud-Native Architecture
+
+Digital library platform built on AWS microservices.
+
+- **Stack:** React · Redux · NestJS · TypeScript  
+- **Infra:** AWS · Docker · Docker Compose · Jenkins  
+- **AWS Services:** S3 · EC2 · ECS · Cognito · Lambda · API Gateway · CloudFront · CloudWatch · VPC · SNS · DynamoDB  
+- **Repository:** [Artifact](https://github.com/Zaiidmo/eBooks-API)
+
+---
+
+### 🎟️ Eventify — Event Management Platform
+
+Create, manage, organize, and explore events with a smooth UI and scalable backend.
+
+- **Stack:** React · TypeScript · NestJS · MongoDB · Mollie  
+- **Repository:** [Artifact](https://github.com/Zaiidmo/Eventify-API)
+- [**Demo**](https://eventify.moumni.uk)  
+
+---
+
+### 📦 StockSync — Inventory Management
+
+Manage your stock, from your pocket.
+
+- **Stack:** React Native · Expo · Tailwind · JSON-Server (Mock Backend)  
+- **Repository:** [Artifact](https://github.com/Zaiidmo/StockSync)
+
+---
+
+### 🍽️ QuickBite — Food Ordering System
+
+A complete restaurant → courier → client system.
+
+- **Stack:** Laravel · JavaScript · MySQL  
+- **Repository:** [Artifact](https://github.com/Zaiidmo/QuickBite)
+
+---
+
+## 🌱 Currently Expanding Into
+
+- System architecture  
+- Cloud-native distributed systems  
+- Performance engineering  
+- DevOps automation  
+- Infrastructure as code  
+
+---
+
+## 📬 Connect With Me
+
+- **Website:** https://zaiid.moumni.uk  
+- **LinkedIn:** https://linkedin.com/in/Zaiidmoumni  
+- **GitHub:** https://github.com/Zaiidmo  
+
+---
+
+## 🐺 Signature
+
+> **© 2025 If it feels precise, it’s TheVlpha.**

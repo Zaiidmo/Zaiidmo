@@ -1,34 +1,6 @@
-# 🐺 Zaiid Moumnii — TheVlpha
+# Zaiid Moumnii
 
 > *"Engineering clarity from chaos."*
-
-Hi — I’m **Zaiid**,
-
-Things I value:
-
-- Structure  
-- Elegance  
-- Maintainability  
-- Engineering as a craft  
-- The thrill of solving problems others avoid  
-
-If something carries the **Vlpha** signature, it’s because it’s designed, built, and refined with obsession.
-
----
-
-## 🧠 What I Do
-
-I work across the stack, but my center of gravity lives in:
-
-- Backend engineering & API architecture  
-- Distributed systems & microservices  
-- Cloud engineering (mainly **AWS**)  
-- DevOps pipelines & deployment automation  
-- Frontend integration when the experience matters  
-
-I enjoy making systems make sense — reducing complexity until it feels clean.
-
----
 
 ## 🛠️ Tech I Work With
 
@@ -67,10 +39,7 @@ I enjoy making systems make sense — reducing complexity until it feels clean.
   <img src="https://skillicons.dev/icons?i=apple,linux,windows" />
 </p>
 
-### Architectural Concepts  
-
-**Domain-Driven Design · Event-Driven Architectures · System Design · Microservices · Distributed Systems · CI/CD Pipelines · Infrastructure as Code · Performance Engineering**
-
+---
 
 ## 📬 Connect With Me
 
@@ -80,6 +49,4 @@ I enjoy making systems make sense — reducing complexity until it feels clean.
 
 ---
 
-## 🐺 Signature
-
-> **© 2025 If it feels precise, it’s TheVlpha.**
+> **© 2026 If it feels precise, it’s TheVlpha.**

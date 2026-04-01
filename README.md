@@ -41,12 +41,4 @@
 
 ---
 
-## 📬 Connect With Me
-
-- **Website:** https://zaiid.moumni.uk  
-- **LinkedIn:** https://linkedin.com/in/Zaiidmoumni  
-- **GitHub:** https://github.com/Zaiidmo  
-
----
-
 > **© 2026 If it feels precise, it’s TheVlpha.**

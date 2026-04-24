@@ -1,44 +1,14 @@
-# Zaiid Moumnii
+# Zaiid MOUMNI
 
-> *"Engineering clarity from chaos."*
-
-## 🛠️ Tech I Work With
-
-### Core Stack — Backend Engineering & System Architecture  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,redis,postgres,mongodb,dynamodb" />
-</p>
-
-### Core Stack — Frontend Integration  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,html,css,js" />
-</p>
-
-### Extended Arsenal  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=express,php,laravel,cs,swift,dotnet,mysql,sqlite,sequelize" />
-</p>
-
-### Cloud Engineering  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,vercel" />
-</p>
-
-### DevOps & Platform Engineering  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,jenkins,githubactions,gitlab,nginx" />
-</p>
-
-### Tools I Craft With  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,figma,postman" />
-</p>
-
-### Operating Systems  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=apple,linux,windows" />
-</p>
+Software Engineer — TypeScript, NestJS, React, AWS.  
+Backend-heavy. Infrastructure-minded. Detail-obsessed.
 
 ---
 
-> **© 2026 If it feels precise, it’s TheVlpha.**
+### Notable Work
+- **[PR Guardian](https://github.com/Zaiidmo/PR-guardian)** — AI code review bot on AWS Lambda + Claude API
+- **[eBooks-API](https://github.com/Zaiidmo/eBooks-API)** — Cloud-native backend microservice · NestJS · AWS
+
+---
+
+> *"Finding beauty in chaotic systems."*
